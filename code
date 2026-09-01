@@ -1,0 +1,19 @@
+<!DOCKTYPE html>
+<html>
+  <head>
+    <title>HI</title>
+  </head>
+  <body>
+    <h1>HI</h1>
+    <script>
+  //crete a variable that loops until the variable has the number you put.
+      var drawStuff = function (howManyTimes, whatToDraw) {
+        for (var i =0; i < howManyTimes; i++) {
+          console.log(i + "" + whatToDraw);
+        }
+      }
+//put what you want to write in the parentheses. Put the number with a coma and then put what you want after the coma. You can only put symbols not letters. You can do numbers too.
+      drawStuff()
+    </script>
+  </body>
+</html>

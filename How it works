@@ -1,0 +1,1 @@
+Basicly it uses a loop to set i at 0 then as long as it is less than howManyTimes it adds 1 using ++ until it equals one telling the console.log to make that number of i's into different lines labeled with numbers and what you write in the parentheses.
